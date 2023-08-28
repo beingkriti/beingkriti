@@ -4,7 +4,8 @@
 
 I'm Kriti, a passionate coder exploring the digital universe.
 
-I believe in the power of code to turn caffeine into solutions that make a difference.
+I believe in the power of code to turn caffeine into solutions that make a difference ☕. 
+(Strictly not a Java reference :P)
 
 Let's connect and collaborate on exciting projects!
 
