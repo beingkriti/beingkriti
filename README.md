@@ -1,0 +1,17 @@
+# Hello, World! 👋
+
+I'm Kriti, a passionate coder exploring the digital universe. Welcome to my GitHub profile!
+
+- 🔭 Currently working on crafting innovative web applications.
+- 🌱 Learning the art of machine learning, transforming algorithms into actionable insights, and integrating AI into my projects for smarter solutions.
+- 📱 Building engaging mobile applications using React Native, bringing my creative ideas to life on small screens.
+- 🕸️ Enthusiastic about web scraping, uncovering hidden gems of data from the vast expanse of the internet.
+- ⚡ Fun fact: I believe in the power of code to turn caffeine into solutions that make a difference.
+
+Let's connect and collaborate on exciting projects!
+
+
+<!---
+beingkriti/beingkriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
