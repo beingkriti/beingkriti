@@ -2,13 +2,9 @@
 
 ### Hello, World! 👋
 
-I'm Kriti, a passionate coder exploring the digital universe. Welcome to my GitHub profile!
+I'm Kriti, a passionate coder exploring the digital universe.
 
-- 🔭 Currently working on crafting innovative web applications.
-- 🌱 Transforming algorithms into actionable insights, and integrating AI into my projects for smarter solutions.
-- 📱 Bringing my creative ideas to life on small screens.
-- 🕸️ Uncovering hidden gems of data from the vast expanse of the internet.
-- ⚡ Fun fact: I believe in the power of code to turn caffeine into solutions that make a difference.
+I believe in the power of code to turn caffeine into solutions that make a difference.
 
 Let's connect and collaborate on exciting projects!
 
