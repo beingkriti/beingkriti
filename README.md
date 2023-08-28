@@ -1,12 +1,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=beingkriti&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-# Hello, World! 👋
+
+### Hello, World! 👋
 
 I'm Kriti, a passionate coder exploring the digital universe. Welcome to my GitHub profile!
 
 - 🔭 Currently working on crafting innovative web applications.
-- 🌱 Learning the art of machine learning, transforming algorithms into actionable insights, and integrating AI into my projects for smarter solutions.
-- 📱 Building engaging mobile applications using React Native, bringing my creative ideas to life on small screens.
-- 🕸️ Enthusiastic about web scraping, uncovering hidden gems of data from the vast expanse of the internet.
+- 🌱 Transforming algorithms into actionable insights, and integrating AI into my projects for smarter solutions.
+- 📱 Bringing my creative ideas to life on small screens.
+- 🕸️ Uncovering hidden gems of data from the vast expanse of the internet.
 - ⚡ Fun fact: I believe in the power of code to turn caffeine into solutions that make a difference.
 
 Let's connect and collaborate on exciting projects!
