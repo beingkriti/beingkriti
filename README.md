@@ -6,7 +6,7 @@
 
 ### Hello, World! 👋
 
-I'm Kriti, a passionate coder exploring the digital universe.
+I'm Kriti (2.0 cos re-activated account), a passionate coder exploring the digital universe.
 
 I believe in the power of code to turn caffeine into solutions that make a difference ☕. 
 (Strictly not a Java reference :P)
